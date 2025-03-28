@@ -1,4 +1,4 @@
 Projeto de Fabric com Git with Medallion Arc.
-PySpark 
+PySpark and SQLSpark
 End to End project CI/CD
 
